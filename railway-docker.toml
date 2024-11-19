@@ -1,6 +1,6 @@
 [build]
 builder = "DOCKERFILE"
-dockerfilePath = "docker/jschan/Dockerfile"
+dockerfilePath = "docker/web/Dockerfile"
 
 [deploy]
 runtime = "V2"
